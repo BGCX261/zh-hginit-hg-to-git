@@ -38,7 +38,7 @@ Contents:
    setting-up
    fixing
    merging
-   repository
+   architecture
 
 Indices and tables
 ==================

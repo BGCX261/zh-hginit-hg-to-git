@@ -125,7 +125,7 @@ Mercurial 让你能够尽情尝试. 假设在日常编辑过程中, 你的编辑
 
     C:\Users\joel> cd recipes-experiment
 
-以下就是我那顶级牛油果酱试验配方:
+以下就是我那顶级鳄梨酱试验配方:
 
 .. image:: _images/03-01.png
 
