@@ -1,6 +1,6 @@
 ﻿.. epigraph::
 
-    **如果您以前用过 Subversion, Mercurial 会让你感觉很困惑. 这篇教程将介绍 Mercurial 工作方式最大的区别. 如果你从没接触过 Subversion, 那就 `直接跳过这章吧`.**
+    **如果您以前用过 Subversion, Mercurial 会让你感觉很困惑. 这篇教程将介绍 Mercurial 工作方式最大的区别. 如果你从没接触过 Subversion, 可以**:doc:`直接跳过本章 </groundup>`.
 
 ====================
 重新审视 Subversion
@@ -141,3 +141,8 @@ Mercurial 确实 *更好*.
 我想你会这么干, 因为我当初就这么干来着.
 
 不要再犯相同的错误了. 学习 Mercurial, 信任 Mercurial, 找到适合 Mercurial 的工作方式, 你将走在源码控制整个时代的前列. 当你的竞争对手们为了解决分支合并所带来的冲突忙得焦头烂额的时候, 你输入 **hg merge** 然后得意的说: "太棒了, 顺利搞定." 然后 Mike 冷静下来, 和实习生出去抽一根 (译注: 原文是美俚 "大麻烟"), 一切其乐融融, 生活多美好.
+
+Next
+----------
+
+:doc:`开课: Mercurial 从零开始 </groundup>`
