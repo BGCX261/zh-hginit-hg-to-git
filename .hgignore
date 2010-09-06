@@ -1,0 +1,4 @@
+# 使用通配符语法.
+syntax: glob
+
+build/*
